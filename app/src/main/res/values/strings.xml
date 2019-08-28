@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mounika-News-Project</string>
+
+    <string name="ALERT_BUTTON_CLOSE">Close</string>
+    <string name="NO_DATA">No data found!</string>
+    <string name="CONNECTION_ERROR">The internet connection appears to be offline.</string>
+    <string name="SERVER_ERROR">We are having trouble connecting to server. Please try again later.</string>
+
+    <string name="TITLE">News</string>
+    <string name="BTN_FULL">Read News</string>
+    <string name="BTN_NEWS_LIST">Get News List</string>
+    <string name="INSTRUCTIONS">Click on \'Get News List\' button above to view the list of news and click on news list item or Read News button to view full news.</string>
+
+</resources>
